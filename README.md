@@ -1,6 +1,6 @@
 # TestApp
 To run app you need:
 
-`cp enb.example .env`
+`cp env.example .env`
 
 `docker-compose up --build`
